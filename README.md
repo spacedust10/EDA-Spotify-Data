@@ -9,7 +9,8 @@ you will also need approprite packages installed before you run the project like
  - pandas
  - seaborn
  - sklearn
- - matplotlib 
+ - matplotlib
+ - 
 also, extract the zip files which contains datasets aand add paths accordingly to the code wherever required.
 
 ```bash
