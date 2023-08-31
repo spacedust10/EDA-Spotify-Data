@@ -11,7 +11,7 @@ you will also need approprite packages installed before you run the project like
  - sklearn
  - matplotlib
 
-also, extract the zip files which contains datasets aand add paths accordingly to the code wherever required.
+also, extract the zip files which contains datasets and add paths of the dataset accordingly to the code wherever required after unzipping.
 
 ```bash
 pip install <package-name>
