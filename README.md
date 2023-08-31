@@ -3,7 +3,7 @@ Exploratory data analysis (EDA) of Spotify data involves analyzing the vast amou
 
 ## Installation
 
-Follow any python installation guide with the jupyter notebook attachment
+Follow any python installation guide with the jupyter notebook attachment. Also, 
 you will also need approprite packages installed before you run the project like 
  - numpy
  - pandas
