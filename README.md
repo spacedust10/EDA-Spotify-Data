@@ -10,7 +10,7 @@ you will also need approprite packages installed before you run the project like
  - seaborn
  - sklearn
  - matplotlib
- - 
+
 also, extract the zip files which contains datasets aand add paths accordingly to the code wherever required.
 
 ```bash
